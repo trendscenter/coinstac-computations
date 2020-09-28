@@ -1,0 +1,613 @@
+[
+    {
+        "name": "Regression on Freesurfer Volumes",
+        "algo_dev": {
+            "first_name": "Harsh",
+            "last_name": "Gazula",
+            "github_url": "https://github.com/hvgazula",
+            "github_user": "hvgazula"
+        },
+        "comp_creator": {
+            "first_name": "Harsh",
+            "last_name": "Gazula",
+            "github_url": "https://github.com/hvgazula",
+            "github_user": "hvgazula"
+        },
+        "maintainer": {
+            "first_name": "Harsh",
+            "last_name": "Gazula",
+            "github_url": "https://github.com/hvgazula",
+            "github_user": "hvgazula"
+        },
+        "repository": "https://github.com/trendscenter/coinstac-regression-fsl",
+        "paper": {
+            "citation": "H. Gazula, B. Baker, E. Damaraju, S. Plis, S. Panta, R. Silva, V. Calhoun, Decentralized Analysis of Brain Imaging Data: Voxel-Based Morphometry and Dynamic Functional Network Connectivity, Frontiers in Neuroinformatics 12(55): August 2018.",
+            "url": "http://dx.doi.org/10.3389/fninf.2018.00055"
+        },
+        "status": "available"
+    },
+    {
+        "name": "Regression on VBM Maps",
+        "algo_dev": {
+            "first_name": "Harsh",
+            "last_name": "Gazula",
+            "github_url": "https://github.com/hvgazula",
+            "github_user": "hvgazula"
+        },
+        "comp_creator": {
+            "first_name": "Harsh",
+            "last_name": "Gazula",
+            "github_url": "https://github.com/hvgazula",
+            "github_user": "hvgazula"
+        },
+        "maintainer": {
+            "first_name": "Harsh",
+            "last_name": "Gazula",
+            "github_url": "https://github.com/hvgazula",
+            "github_user": "hvgazula"
+        },
+        "repository": "https://github.com/trendscenter/coinstac-regression-vbm",
+        "paper": {
+            "citation": "H. Gazula, B. Baker, E. Damaraju, S. Plis, S. Panta, R. Silva, V. Calhoun, Decentralized Analysis of Brain Imaging Data: Voxel-Based Morphometry and Dynamic Functional Network Connectivity, Frontiers in Neuroinformatics 12(55): August 2018.",
+            "url": "http://dx.doi.org/10.3389/fninf.2018.00055"
+        },
+        "status": "available"
+    },
+    {
+        "name": "Single-shot Ridge Regression on VBM Maps",
+        "algo_dev": {
+            "first_name": "Sergey",
+            "last_name": "Plis",
+            "github_url": "https://github.com/sergeyplis",
+            "github_user": "sergeyplis"
+        },
+        "comp_creator": {
+            "first_name": "Harsh",
+            "last_name": "Gazula",
+            "github_url": "https://github.com/hvgazula",
+            "github_user": "hvgazula"
+        },
+        "maintainer": {
+            "first_name": "Harsh",
+            "last_name": "Gazula",
+            "github_url": "https://github.com/hvgazula",
+            "github_user": "hvgazula"
+        },
+        "repository": "https://github.com/trendscenter/coinstac-ssr-vbm",
+        "paper": {
+            "citation": "S. Plis, A.D. Sarwate, D. Wood, C. Dieringer, D. Landis, C. Reed, S.R. Panta, J.A. Turner, J.M. Shoemaker, K.W. Carter, P. Thompson, K. Hutchison, V.D. Calhoun, COINSTAC: A Privacy Enabled Model and Prototype for Leveraging and Processing Decentralized Brain Imaging Data, Frontiers in Neuroscience 10(365): August 2016.",
+            "url": "http://dx.doi.org/10.3389/fnins.2016.00365"
+        },
+        "status": "available"
+    },
+    {
+        "name": "Multi-shot Ridge Regression on VBM Maps",
+        "algo_dev": {
+            "first_name": "Sergey",
+            "last_name": "Plis",
+            "github_url": "https://github.com/sergeyplis",
+            "github_user": "sergeyplis"
+        },
+        "comp_creator": {
+            "first_name": "Harsh",
+            "last_name": "Gazula",
+            "github_url": "https://github.com/hvgazula",
+            "github_user": "hvgazula"
+        },
+        "maintainer": {
+            "first_name": "Harsh",
+            "last_name": "Gazula",
+            "github_url": "https://github.com/hvgazula",
+            "github_user": "hvgazula"
+        },
+        "repository": "https://github.com/trendscenter/coinstac-msr-vbm",
+        "paper": {
+            "citation": "S. Plis, A.D. Sarwate, D. Wood, C. Dieringer, D. Landis, C. Reed, S.R. Panta, J.A. Turner, J.M. Shoemaker, K.W. Carter, P. Thompson, K. Hutchison, V.D. Calhoun, COINSTAC: A Privacy Enabled Model and Prototype for Leveraging and Processing Decentralized Brain Imaging Data, Frontiers in Neuroscience 10(365): August 2016.",
+            "url": "http://dx.doi.org/10.3389/fnins.2016.00365"
+        },
+        "status": "available"
+    },
+    {
+        "name": "Multi-shot Ridge Regression on Freesurfer Volumes",
+        "algo_dev": {
+            "first_name": "Sergey",
+            "last_name": "Plis",
+            "github_url": "https://github.com/sergeyplis",
+            "github_user": "sergeyplis"
+        },
+        "comp_creator": {
+            "first_name": "Harsh",
+            "last_name": "Gazula",
+            "github_url": "https://github.com/hvgazula",
+            "github_user": "hvgazula"
+        },
+        "maintainer": {
+            "first_name": "Harsh",
+            "last_name": "Gazula",
+            "github_url": "https://github.com/hvgazula",
+            "github_user": "hvgazula"
+        },
+        "repository": "https://github.com/trendscenter/coinstac-msr-fsl",
+        "paper": {
+            "citation": "S. Plis, A.D. Sarwate, D. Wood, C. Dieringer, D. Landis, C. Reed, S.R. Panta, J.A. Turner, J.M. Shoemaker, K.W. Carter, P. Thompson, K. Hutchison, V.D. Calhoun, COINSTAC: A Privacy Enabled Model and Prototype for Leveraging and Processing Decentralized Brain Imaging Data, Frontiers in Neuroscience 10(365): August 2016.",
+            "url": "http://dx.doi.org/10.3389/fnins.2016.00365"
+        },
+        "status": "available"
+    },
+    {
+        "name": "ENIGMA SANS",
+        "algo_dev": {
+            "first_name": "Harsh",
+            "last_name": "Gazula",
+            "github_url": "https://github.com/hvgazula",
+            "github_user": "hvgazula"
+        },
+        "comp_creator": {
+            "first_name": "Harsh",
+            "last_name": "Gazula",
+            "github_url": "https://github.com/hvgazula",
+            "github_user": "hvgazula"
+        },
+        "maintainer": {
+            "first_name": "Ross",
+            "last_name": "Kelly",
+            "github_url": "https://github.com/rssk",
+            "github_user": "rssk"
+        },
+        "repository": "https://github.com/trendscenter/coinstac-enigma-sans",
+        "status": "available"
+    },
+    {
+        "name": "ENIGMA",
+        "algo_dev": {
+            "first_name": "Harsh",
+            "last_name": "Gazula",
+            "github_url": "https://github.com/hvgazula",
+            "github_user": "hvgazula"
+        },
+        "comp_creator": {
+            "first_name": "Harsh",
+            "last_name": "Gazula",
+            "github_url": "https://github.com/hvgazula",
+            "github_user": "hvgazula"
+        },
+        "maintainer": {
+            "first_name": "Harsh",
+            "last_name": "Gazula",
+            "github_url": "https://github.com/hvgazula",
+            "github_user": "hvgazula"
+        },
+        "repository": "https://github.com/trendscenter/coinstac-enigma",
+        "status": "available"
+    },
+    {
+        "name": "Voxel-based Morphometry",
+        "algo_dev": {
+            "first_name": "Sandeep",
+            "last_name": "Panta",
+            "github_url": "https://github.com/spanta28",
+            "github_user": "spanta28"
+        },
+        "comp_creator": {
+            "first_name": "Sandeep",
+            "last_name": "Panta",
+            "github_url": "https://github.com/spanta28",
+            "github_user": "spanta28"
+        },
+        "maintainer": {
+            "first_name": "Helen",
+            "last_name": "Petropoulos",
+            "github_url": "https://github.com/hp404",
+            "github_user": "hp404"
+        },
+        "repository": "https://github.com/trendscenter/Coinstac_VBM_computation",
+        "status": "available"
+    },
+    {
+        "name": "fMRI Preprocessing",
+        "algo_dev": {
+            "first_name": "Sandeep",
+            "last_name": "Panta",
+            "github_url": "https://github.com/spanta28",
+            "github_user": "spanta28"
+        },
+        "comp_creator": {
+            "first_name": "Sandeep",
+            "last_name": "Panta",
+            "github_url": "https://github.com/spanta28",
+            "github_user": "spanta28"
+        },
+        "maintainer": {
+            "first_name": "Helen",
+            "last_name": "Petropoulos",
+            "github_url": "https://github.com/hp404",
+            "github_user": "hp404"
+        },
+        "repository": "https://github.com/trendscenter/Coinstac_fmri_computation",
+        "status": "available"
+    },
+    {
+        "name": "Spatially Constrained ICA",
+        "algo_dev": {
+            "first_name": "Bradley",
+            "last_name": "Baker",
+            "github_url": "https://github.com/bbradt",
+            "github_user": "bbradt"
+        },
+        "maintainer": {
+            "first_name": "Bradley",
+            "last_name": "Baker",
+            "github_url": "https://github.com/bbradt",
+            "github_user": "bbradt"
+        },
+        "repository": "https://github.com/trendscenter/coinstac_spatially_constrained_ica",
+        "status": "available"
+    },
+    {
+        "name": "Distributed Dynamic Functional Network Connectivity Pipeline",
+        "algo_dev": {
+            "first_name": "Bradley",
+            "last_name": "Baker",
+            "github_url": "https://github.com/bbradt",
+            "github_user": "bbradt"
+        },
+        "comp_creator": {
+            "first_name": "Bradley",
+            "last_name": "Baker",
+            "github_url": "https://github.com/bbradt",
+            "github_user": "bbradt"
+        },
+        "maintainer": {
+            "first_name": "Bradley",
+            "last_name": "Baker",
+            "github_url": "https://github.com/bbradt",
+            "github_user": "bbradt"
+        },
+        "repository": "https://github.com/trendscenter/coinstac_ddfnc_pipeline",
+        "paper": {
+            "citation": "H. Gazula, B. Baker, E. Damaraju, S. Plis, S. Panta, R. Silva,  V. Calhoun, Decentralized Analysis of Brain Imaging Data: Voxel-Based Morphometry and Dynamic Functional Network Connectivity, Frontiers in Neuroinformatics 12(55): August 2018.",
+            "url": "http://dx.doi.org/10.3389/fninf.2018.00055"
+        },
+        "status": "available"
+    },
+    {
+        "name": "Distributed t-Stochastic Neighbor Embedding",
+        "algo_dev": {
+            "first_name": "Debratta",
+            "last_name": "Saha",
+            "github_url": "https://github.com/deblearn",
+            "github_user": "deblearn"
+        },
+        "comp_creator": {
+            "first_name": "Debratta",
+            "last_name": "Saha",
+            "github_url": "https://github.com/deblearn",
+            "github_user": "deblearn"
+        },
+        "maintainer": {
+            "first_name": "Debratta",
+            "last_name": "Saha",
+            "github_url": "https://github.com/deblearn",
+            "github_user": "deblearn"
+        },
+        "repository": "https://github.com/trendscenter/coinstac-dsne-multishot/tree/master/dsne-ms_test",
+        "paper": {
+            "citation": "D.K. Saha, V.D. Calhoun, S.R. Panta, S.M. Plis, See without looking: joint visualization of sensitive multi-site datasets, Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence (IJCAI-17), Melbourne, Australia, pp. 2672-2678, 19-25 August 2017.",
+            "url": "https://pdfs.semanticscholar.org/ec0d/46470a48bf3a60c641d8fed0a7748a7c9a2d.pdf"
+        },
+        "status": "available"
+    },
+    {
+        "name": "Differentially Private Support Vector Machines/Logistic Regression",
+        "algo_dev": {
+            "first_name": "Anand",
+            "last_name": "Sarwate",
+            "github_url": "https://github.com/adsarwate",
+            "github_user": "adsarwate"
+        },
+        "comp_creator": {
+            "first_name": "Huiwen",
+            "last_name": "Ju",
+            "github_url": "https://github.com/hju5",
+            "github_user": "hju5"
+        },
+        "maintainer": {
+            "first_name": "Huiwen",
+            "last_name": "Ju",
+            "github_url": "https://github.com/hju5",
+            "github_user": "hju5"
+        },
+        "repository": "https://github.com/trendscenter/coinstac-dpsvm",
+        "paper": {
+            "citation": "A.D. Sarwate, S. Plis, J.A. Turner, M. R. Arbabshirani, V.D. Calhoun, Sharing privacy-sensitive access to neuroimaging and genetics data: a review and preliminary validation, Frontiers in Neuroinformatics 8(35): April 2014.",
+            "url": "https://dx.doi.org/10.3389/fninf.2014.00035"
+        },
+        "status": "available"
+    },
+    {
+        "name": "Decentralized MANCOVA",
+        "algo_dev": {
+            "first_name": "Bradley",
+            "last_name": "Baker",
+            "github_url": "https://github.com/bbradt",
+            "github_user": "bbradt"
+        },
+        "comp_creator": {
+            "first_name": "Bradley",
+            "last_name": "Baker",
+            "github_url": "https://github.com/bbradt",
+            "github_user": "bbradt"
+        },
+        "maintainer": {
+            "first_name": "Bradley",
+            "last_name": "Baker",
+            "github_url": "https://github.com/bbradt",
+            "github_user": "bbradt"
+        },
+        "repository": "https://github.com/trendscenter/coinstac-mancova",
+        "status": "simulator"
+    },
+    {
+        "name": "Decentralized Neural Networks",
+        "algo_dev": {
+            "first_name": "Noah",
+            "last_name": "Lewis",
+            "github_url": "",
+            "github_user": ""
+        },
+        "comp_creator": {
+            "first_name": "Aashis",
+            "last_name": "Khanal",
+            "github_url": "https://github.com/sraashis",
+            "github_user": "sraashis"
+        },
+        "maintainer": {
+            "first_name": "Aashis",
+            "last_name": "Khanal",
+            "github_url": "https://github.com/sraashis",
+            "github_user": "sraashis"
+        },
+        "repository": "https://github.com/trendscenter/dinunet",
+        "paper": {
+            "citation": "N. Lewis, S.M. Plis, V.D. Calhoun, Cooperative learning: Decentralized data neural network, 2017 International Joint Conference on Neural Networks (IJCNN), Anchorage, AK, USA, pp. 324-331, 14-19 May 2017.",
+            "url": "http://dx.doi.org/10.1109/IJCNN.2017.7965872."
+        },
+        "status": "simulator"
+    },
+    {
+        "name": "Differentially Private Decentralized Canonical Correlation Analysis",
+        "algo_dev": {
+            "first_name": "Hafiz",
+            "last_name": "Imtiaz",
+            "github_url": "https://github.com/hafizimtiaz",
+            "github_user": "hafizimtiaz"
+        },
+        "comp_creator": {
+            "first_name": "Hafiz",
+            "last_name": "Imtiaz",
+            "github_url": "https://github.com/hafizimtiaz",
+            "github_user": "hafizimtiaz"
+        },
+        "maintainer": {
+            "first_name": "Hafiz",
+            "last_name": "Imtiaz",
+            "github_url": "https://github.com/hafizimtiaz",
+            "github_user": "hafizimtiaz"
+        },
+        "repository": "https://github.com/trendscenter/coinstac-dp-dcca",
+        "paper": {
+            "citation": "H. Imtiaz, A.D. Sarwate, Differentially Private Canonical Correlation Analysis, Proceedings of the 2017 IEEE Global Conference on Signal and Information Processing (GlobalSIP), Montreal, QC, Canada, pp. 283\u2013287, 14\u201316 November 2017.",
+            "url": "http://dx.doi.org/10.1109/GlobalSIP.2017.8308649"
+        },
+        "status": "simulator"
+    },
+    {
+        "name": "Multi-shot Logistic Regression",
+        "algo_dev": {
+            "first_name": "Harsh",
+            "last_name": "Gazula",
+            "github_url": "https://github.com/hvgazula",
+            "github_user": "hvgazula"
+        },
+        "comp_creator": {
+            "first_name": "Harsh",
+            "last_name": "Gazula",
+            "github_url": "https://github.com/hvgazula",
+            "github_user": "hvgazula"
+        },
+        "maintainer": {
+            "first_name": "Harsh",
+            "last_name": "Gazula",
+            "github_url": "https://github.com/hvgazula",
+            "github_user": "hvgazula"
+        },
+        "repository": "https://github.com/trendscenter/coinstac-mslr-fsl",
+        "status": "simulator"
+    },
+    {
+        "name": "Decentralized Nonnegative Matrix Factorization",
+        "algo_dev": {
+            "first_name": "Hafiz",
+            "last_name": "Imtiaz",
+            "github_url": "https://github.com/hafizimtiaz",
+            "github_user": "hafizimtiaz"
+        },
+        "comp_creator": {
+            "first_name": "Hafiz",
+            "last_name": "Imtiaz",
+            "github_url": "https://github.com/hafizimtiaz",
+            "github_user": "hafizimtiaz"
+        },
+        "maintainer": {
+            "first_name": "Hafiz",
+            "last_name": "Imtiaz",
+            "github_url": "https://github.com/hafizimtiaz",
+            "github_user": "hafizimtiaz"
+        },
+        "repository": "https://github.com/trendscenter/coinstac-dnmf",
+        "paper": {
+            "citation": "H. Imtiaz, A.D. Sarwate, Distributed Differentially-Private Algorithms for Matrix and Tensor Factorization, IEEE Journal of Selected Topics in Signal Processing 12(6): pp. 1449\u20131464, December 2018.",
+            "url": "http://dx.doi.org/10.1109/JSTSP.2018.2877842"
+        },
+        "status": "simulator"
+    },
+    {
+        "name": "PLINK Genomic Data Analysis",
+        "comp_creator": {
+            "first_name": "Pranav",
+            "last_name": "Suresh",
+            "github_url": "https://github.com/nspranav",
+            "github_user": "nspranav"
+        },
+        "maintainer": {
+            "first_name": "Pranav",
+            "last_name": "Suresh",
+            "github_url": "https://github.com/nspranav",
+            "github_user": "nspranav"
+        },
+        "repository": "https://github.com/trendscenter/coinstac-plink",
+        "status": "simulator"
+    },
+    {
+        "name": "General Purpose Decentralized Regression",
+        "algo_dev": {
+            "first_name": "Harsh",
+            "last_name": "Gazula",
+            "github_url": "https://github.com/hvgazula",
+            "github_user": "hvgazula"
+        },
+        "comp_creator": {
+            "first_name": "Fatemeh",
+            "last_name": "Mohebbi",
+            "github_url": "https://github.com/FatemehMhbi",
+            "github_user": "FatemehMhbi"
+        },
+        "maintainer": {
+            "first_name": "Fatemeh",
+            "last_name": "Mohebbi",
+            "github_url": "https://github.com/FatemehMhbi",
+            "github_user": "FatemehMhbi"
+        },
+        "repository": "https://github.com/trendscenter/coinstac-regression-csv",
+        "status": "simulator"
+    },
+    {
+        "name": "Decentralized Lasso Regression",
+        "algo_dev": {
+            "first_name": "Huiwen",
+            "last_name": "Ju",
+            "github_url": "https://github.com/hju5",
+            "github_user": "hju5"
+        },
+        "comp_creator": {
+            "first_name": "Huiwen",
+            "last_name": "Ju",
+            "github_url": "https://github.com/hju5",
+            "github_user": "hju5"
+        },
+        "maintainer": {
+            "first_name": "Huiwen",
+            "last_name": "Ju",
+            "github_url": "https://github.com/hju5",
+            "github_user": "hju5"
+        },
+        "repository": "https://github.com/trendscenter/coinstac-lasso-csv",
+        "status": "simulator"
+    },
+    {
+        "name": "Decentralized Regression using Linear Mixed Effects Model for VBM Images",
+        "algo_dev": {
+            "first_name": "Rajikha",
+            "last_name": "Raja",
+            "github_url": "https://github.com/rajikha",
+            "github_user": "rajikha"
+        },
+        "comp_creator": {
+            "first_name": "Rajikha",
+            "last_name": "Raja",
+            "github_url": "https://github.com/rajikha",
+            "github_user": "rajikha"
+        },
+        "maintainer": {
+            "first_name": "Rajikha",
+            "last_name": "Raja",
+            "github_url": "https://github.com/rajikha",
+            "github_user": "rajikha"
+        },
+        "repository": "https://github.com/trendscenter/coinstac-LME-VBM",
+        "status": "simulator"
+    },
+    {
+        "name": "Decentralized Regression using Linear Mixed Effects Model for Freesurfer Volumes",
+        "algo_dev": {
+            "first_name": "Rajikha",
+            "last_name": "Raja",
+            "github_url": "https://github.com/rajikha",
+            "github_user": "rajikha"
+        },
+        "comp_creator": {
+            "first_name": "Rajikha",
+            "last_name": "Raja",
+            "github_url": "https://github.com/rajikha",
+            "github_user": "rajikha"
+        },
+        "maintainer": {
+            "first_name": "Rajikha",
+            "last_name": "Raja",
+            "github_url": "https://github.com/rajikha",
+            "github_user": "rajikha"
+        },
+        "repository": "https://github.com/trendscenter/coinstac-LME-Freesurfer",
+        "status": "simulator"
+    },
+    {
+        "name": "Decentralized Structural ROI Regression",
+        "algo_dev": {
+            "first_name": "Fatemeh",
+            "last_name": "Mohebbi",
+            "github_url": "https://github.com/FatemehMhbi",
+            "github_user": "FatemehMhbi"
+        },
+        "comp_creator": {
+            "first_name": "Fatemeh",
+            "last_name": "Mohebbi",
+            "github_url": "https://github.com/FatemehMhbi",
+            "github_user": "FatemehMhbi"
+        },
+        "maintainer": {
+            "first_name": "Fatemeh",
+            "last_name": "Mohebbi",
+            "github_url": "https://github.com/FatemehMhbi",
+            "github_user": "FatemehMhbi"
+        },
+        "repository": "https://github.com/trendscenter/coinstac-regression-vbm-stats",
+        "status": "simulator"
+    },
+    {
+        "name": "Decentralized Joint Independent Component Analysis",
+        "algo_dev": {
+            "first_name": "Bradley",
+            "last_name": "Baker",
+            "github_url": "https://github.com/bbradt",
+            "github_user": "bbradt"
+        },
+        "comp_creator": {
+            "first_name": "Jafar",
+            "last_name": "Mohammadi",
+            "github_url": "",
+            "github_user": ""
+        },
+        "maintainer": {
+            "first_name": "Bradley",
+            "last_name": "Baker",
+            "github_url": "https://github.com/bbradt",
+            "github_user": "bbradt"
+        },
+        "repository": "https://github.com/trendscenter/djICA_COINSTAC",
+        "paper": {
+            "citation": "B. Baker, A. Abrol, R.F. Silva, E. Damaraju, A.D. Sarwate, V.D. Calhoun, S.M. Plis, Decentralized Temporal Independent Component Analysis: Leveraging fMRI Data in Collaborative Settings, NeuroImage 186: pp. 557\u2013569, February 2019.",
+            "url": "http://dx.doi.org/10.1016/j.neuroimage.2018.10.072"
+        },
+        "status": "development"
+    }
+]
